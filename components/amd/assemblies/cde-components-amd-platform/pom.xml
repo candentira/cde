@@ -5,10 +5,10 @@
   <parent>
     <groupId>org.pentaho.ctools</groupId>
     <artifactId>cde-components-amd-assemblies</artifactId>
-    <version>8.1.0.0-SNAPSHOT</version>
+    <version>8.1.0.0-197</version>
   </parent>
   <artifactId>cde-components-amd-platform</artifactId>
-  <version>8.1.0.0-SNAPSHOT</version>
+  <version>8.1.0.0-197</version>
   <description>Pentaho Community Dashboard Editor AMD Custom Components for the Pentaho Platform</description>
   <packaging>pom</packaging>
   <properties>
