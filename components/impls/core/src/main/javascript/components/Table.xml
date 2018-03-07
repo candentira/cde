@@ -42,7 +42,7 @@
       <Property>preChange</Property>
       <Property>postChange</Property>
       <Property>postFetch</Property>
-      <Property>hideOverlay</Property>
+      <Property>lifecycleSilent</Property>
       <Property>preExecution</Property>
       <Property>postExecution</Property>
       <Property>failureCallback</Property>

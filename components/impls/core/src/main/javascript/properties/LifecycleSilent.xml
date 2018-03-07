@@ -1,6 +1,6 @@
 <DesignerProperty>
 <Header>
-	<Name>hideOverlay</Name>
+	<Name>lifecycleSilent</Name>
 	<Parent>BaseProperty</Parent>
 	<DefaultValue>"false"</DefaultValue>
 	<Description>Avoid Overlay</Description>

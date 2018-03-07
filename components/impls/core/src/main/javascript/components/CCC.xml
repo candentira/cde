@@ -1815,7 +1815,7 @@
         <Property>tooltip</Property>
         <Property>listeners</Property>
         <Property>refreshPeriod</Property>
-        <Property>hideOverlay</Property>
+        <Property>lifecycleSilent</Property>
       </Model>
     </Contents>
   </DesignerComponent>
